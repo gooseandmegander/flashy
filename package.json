@@ -1,0 +1,24 @@
+{
+  "name": "flashy",
+  "version": "1.0.0",
+  "description": "flashcard app using spaced repetition algorithm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gooseandmegander/flashy.git"
+  },
+  "keywords": [
+    "React",
+    "Webpack",
+    "Babel"
+  ],
+  "author": "Megan Williamson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gooseandmegander/flashy/issues"
+  },
+  "homepage": "https://github.com/gooseandmegander/flashy#readme"
+}
